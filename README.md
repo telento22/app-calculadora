@@ -1,6 +1,6 @@
-# myapp
+# App Calculadora.
 
-A new Flutter project.
+sistema desevolvido no Módulo 3 do crso desenvolvendo WEB.
 
 ## Getting Started
 
